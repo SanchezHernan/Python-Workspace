@@ -1,0 +1,3 @@
+class monticulo():
+    dato = []
+    
