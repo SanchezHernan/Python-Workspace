@@ -15,7 +15,7 @@ Created on Mon Nov 20 12:54:48 2017
 import requests
 
 GOOGLE_MAPS_API_URL = 'http://maps.googleapis.com/maps/api/geocode/json'
-#api_key = 'AIzaSyBMpB8Bx2MqVkX56Vo7Tz9NuKLh_Pwz6iY'
+#api_key = 'YOUR_API_KEY'
 
 
 # Do the request and get the response data
